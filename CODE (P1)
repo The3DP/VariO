@@ -1,4 +1,4 @@
-  # This is a testing program, it is not to be used for commercial issues
+  # This is section 1 of the program.
 def exit():
  ex = 2
  while ex != 1 and ex != 0:
