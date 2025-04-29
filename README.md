@@ -9,3 +9,7 @@ d73928430@gmail.com
 
 - The3DP
 ##
+>RTS
+##
+This is testable in Terminal for Mac/Windows/Raspberry Pi.
+##
