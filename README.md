@@ -1,5 +1,5 @@
-# VariO
-A software platform designed to collect data and
+##
+Vario is a software platform designed to collect data and
 process that data according to its use. 
 ##
 Thank you for understanding the rules and regulations in LICENSE.
