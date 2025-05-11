@@ -1,4 +1,3 @@
-##
 Vario is a software platform designed to collect data and
 process that data according to its use. 
 ##
